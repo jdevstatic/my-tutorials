@@ -19,8 +19,8 @@
 
 9. [Java Executable File Tutorial](https://xdvrx1.github.io/java-create-jar-exe-file-tutorial/) 
 
-10. Hing The GitHub Stats](https://xdvrx1.github.io/hacking-the-github-stats/)
+10. [Hacking The GitHub Stats](https://xdvrx1.github.io/hacking-the-github-stats/)
 
-1..age Metrics Tutorial](https://xdvrx1.github.io/page-metrics-tutorial/)
+11. [Page Metrics Tutorial](https://xdvrx1.github.io/page-metrics-tutorial/)
 
-## [Intro To Electronics](https://xdvrx1.github.io/basic-electronics/)
+12. [Intro To Electronics](https://xdvrx1.github.io/basic-electronics/)
