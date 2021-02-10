@@ -24,3 +24,7 @@
 11. [Page Metrics Tutorial](https://xdvrx1.github.io/page-metrics-tutorial/)
 
 12. [Intro To Electronics](https://xdvrx1.github.io/basic-electronics/)
+
+13. [Single Display Arduino Project](https://xdvrx1.github.io/single-display-arduino-project/)
+
+14. [Core Concepts of Computer Programming](https://xdvrx1.github.io/programming-core-concepts/)
